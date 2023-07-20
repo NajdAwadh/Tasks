@@ -1,0 +1,11 @@
+C:\Users\Najd.Almutairi\Documents\GitHub\Task1-CSharp\Radar\task1\bin\Debug\test3.exe.config
+C:\Users\Najd.Almutairi\Documents\GitHub\Task1-CSharp\Radar\task1\bin\Debug\test3.exe
+C:\Users\Najd.Almutairi\Documents\GitHub\Task1-CSharp\Radar\task1\bin\Debug\test3.pdb
+C:\Users\Najd.Almutairi\Documents\GitHub\Task1-CSharp\Radar\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+C:\Users\Najd.Almutairi\Documents\GitHub\Task1-CSharp\Radar\task1\obj\Debug\task1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Najd.Almutairi\Documents\GitHub\Task1-CSharp\Radar\task1\obj\Debug\test3.Form1.resources
+C:\Users\Najd.Almutairi\Documents\GitHub\Task1-CSharp\Radar\task1\obj\Debug\test3.Properties.Resources.resources
+C:\Users\Najd.Almutairi\Documents\GitHub\Task1-CSharp\Radar\task1\obj\Debug\task1.csproj.GenerateResource.cache
+C:\Users\Najd.Almutairi\Documents\GitHub\Task1-CSharp\Radar\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\Najd.Almutairi\Documents\GitHub\Task1-CSharp\Radar\task1\obj\Debug\test3.exe
+C:\Users\Najd.Almutairi\Documents\GitHub\Task1-CSharp\Radar\task1\obj\Debug\test3.pdb

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0rzcAgRE5LtS4tc0vHikrrZLgQObLh9ZJWSG+Fa96bcwi/HnbO7DjeRMGIZ/iYofWJIyI4RHIGh4pLD0pKkXhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Najd.Almutairi\\source\\repos\\loginSystemApp\\loginSystemApp\\loginSystemApp\\loginSystemApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Najd.Almutairi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Najd.Almutairi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Najd.Almutairi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Najd.Almutairi\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Najd.Almutairi\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
